@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.818,=C:\Users\Aleksey\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.778,=C:\Users\Aleksey\Documents\Embarcadero\Studio\Projects\Card game\res08.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.811,=C:\Users\Aleksey\Documents\Embarcadero\Studio\Projects\Card game\res10.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.551,=C:\Users\Aleksey\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.940,=C:\Users\Aleksey\Documents\Embarcadero\Studio\Projects\Card game\res01.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.719,=C:\Users\Aleksey\Documents\Embarcadero\Studio\Projects\Card game\res03.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.739,=C:\Users\Aleksey\Documents\Embarcadero\Studio\Projects\Card game\res05.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.507,C:\Users\Aleksey\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Aleksey\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.750,=C:\Users\Aleksey\Documents\Embarcadero\Studio\Projects\Card game\res06.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.742,=C:\Users\Aleksey\Documents\Embarcadero\Studio\Projects\Card game\res02.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.872,=C:\Users\Aleksey\Documents\Embarcadero\Studio\Projects\Card game\res13.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.794,=C:\Users\Aleksey\Documents\Embarcadero\Studio\Projects\Card game\res09.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.897,=C:\Users\Aleksey\Documents\Embarcadero\Studio\Projects\Card game\res14.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.830,=C:\Users\Aleksey\Documents\Embarcadero\Studio\Projects\Card game\res11.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.448,=C:\Users\Aleksey\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.851,=C:\Users\Aleksey\Documents\Embarcadero\Studio\Projects\Card game\res12.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.728,=C:\Users\Aleksey\Documents\Embarcadero\Studio\Projects\Card game\res04.bmp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.900,=C:\Users\Aleksey\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.763,=C:\Users\Aleksey\Documents\Embarcadero\Studio\Projects\Card game\res07.bmp</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>
